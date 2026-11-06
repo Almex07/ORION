@@ -112,8 +112,8 @@ The database filename `jarvis.sqlite3` is a historical name retained for compati
 - [ ] Document LLM responsibilities and decision boundaries.
 - [ ] Add a reproducible database initialization and clean-install procedure.
 
-## Project Status
+## Documentation
 
-L1–L5 are implemented as individual development components. Their complete end-to-end integration remains under validation.
+- [System Architecture](ARCHITECTURE.md)
+- [Progress Report — November 6, 2026](PROGRESS_2026-11-06.md)
 
-See [Progress Report — November 6, 2026](PROGRESS_2026-11-06.md) for the milestone details.
